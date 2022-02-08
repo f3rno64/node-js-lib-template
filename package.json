@@ -1,6 +1,6 @@
 {
   "name": "node-js-lib-template",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "description": "Template for a new node library.",
   "author": "Mircea Cristian Mihalache <me@f3rno.com>",
